@@ -2,7 +2,6 @@
 
 ## Project Details:
 **Domain**: Machine Learning
-
 **Project Name**: Network Attacks Prediction
 
 ## Data Description:
